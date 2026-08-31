@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="./img/danteh.jpg" alt="Profile Image">
+</p>
 <!--
 **ynwmieayam/ynwmieayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
